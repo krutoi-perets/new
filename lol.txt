@@ -1,0 +1,29 @@
+[33mcommit e75b6dbde29bb9b15af184a535dae63628d7ad0c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Vlad <lol@mail.ru>
+Date:   Fri Oct 18 00:37:45 2024 +0300
+
+    moved test.txt
+
+[33mcommit 7ca2bcbd7a5543d698e5595cc4f9a185a1b98927[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vlad <lol@mail.ru>
+Date:   Thu Oct 17 23:55:12 2024 +0300
+
+    edit test file
+
+[33mcommit 57b5d59ef3a9c1035321aad6a1f0085913598876[m
+Author: Vlad <lol@mail.ru>
+Date:   Thu Oct 17 23:54:38 2024 +0300
+
+    test file
+
+[33mcommit 43ef6e4fcee7d4f1d7c1ef8bfbd187aa99223123[m
+Author: Vlad <lol@mail.ru>
+Date:   Thu Oct 17 23:37:39 2024 +0300
+
+    new_commit
+
+[33mcommit fd2f757d2787ae05f25187f54617f994f85ad89a[m[33m ([m[1;32mnew_branch[m[33m)[m
+Author: Vlad <lol@mail.ru>
+Date:   Thu Oct 17 22:47:54 2024 +0300
+
+    123 lol
